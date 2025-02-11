@@ -1,0 +1,1 @@
+I developed a simple Java application for my Computer Science class that calculates and displays the average of three test scores. The project focuses on foundational programming concepts, including user input, arithmetic operations, and output formatting.
